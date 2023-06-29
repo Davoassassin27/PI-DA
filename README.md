@@ -7,6 +7,7 @@
 Hola a todos! En este proyecto se va a llevar a cabo un EDA y Analisis de datos a partir de un dataset público brindado por la OACI (Organización de Aviación Civil Internacional) disponibilizando el dashboard en streamlit.
 La idea es simular el rol de un data analyst contratado por la OACI o la NTSB para investigar posibles patrones y brindar soluciones a partir de KPIs definidos durante el desarrollo de este analisis.
 Dashboard de streamlit en el siguiente link: https://davoassassin27-pi-da-main-7z7jkb.streamlit.app/.
+Video explicativo en Youtube: https://youtu.be/U4ueT5CkXdg.
 
 ## Características
 
